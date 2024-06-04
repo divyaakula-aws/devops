@@ -1,3 +1,8 @@
 linux
 aws
 terraform
+python
+kubernetes
+jenkins
+git hub
+docker
